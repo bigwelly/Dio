@@ -1,2 +1,2 @@
 # Dio
-Curso DIO arquivos das aulas
+arquivos das aulas do Curso DIO 
